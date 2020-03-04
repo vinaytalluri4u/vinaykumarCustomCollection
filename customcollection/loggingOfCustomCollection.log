@@ -1,0 +1,8 @@
+2020-03-04 11:03:09 INFO  customcollection.UseCustomListTest :30 - Items added and removed successfully
+2020-03-04 11:03:09 DEBUG customcollection.UseCustomListTest :31 - [apple,banana,water melon,pine apple,orange,carrot,beetroot,papaya,kiwi,dragon fruit]
+2020-03-04 11:03:09 WARN  customcollection.UseCustomListTest :32 - No warnings in using the custom list
+2020-03-04 11:03:09 ERROR customcollection.UseCustomListTest :33 - No errors in using the custom list
+2020-03-04 11:03:09 INFO  customcollection.UseCustomListTest :49 - Items added and removed successfully
+2020-03-04 11:03:09 DEBUG customcollection.UseCustomListTest :50 - [Diwali,Dusshera,Sankranthi,Moharam,Ramzan,Christmas]
+2020-03-04 11:03:09 WARN  customcollection.UseCustomListTest :51 - No warnings in using the custom list
+2020-03-04 11:03:09 ERROR customcollection.UseCustomListTest :52 - No errors in using the custom list
